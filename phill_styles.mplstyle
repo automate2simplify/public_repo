@@ -1,0 +1,24 @@
+# Color Cycle for lines
+axes.prop_cycle: cycler('color', ['lightgray', 'blue', 'turquoise'])
+
+# Fonts
+axes.titlesize: 16
+axes.labelsize: 12
+xtick.labelsize: 10
+ytick.labelsize: 10
+
+# Tick and Label Colors
+ytick.color: gray
+xtick.color: black
+
+# Line Widths
+lines.linewidth: 0.75
+
+# Figure Size
+figure.figsize: 12, 6
+
+# Spines
+axes.spines.top: False
+axes.spines.right: False
+axes.spines.bottom: True
+axes.spines.left: True
